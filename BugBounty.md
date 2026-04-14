@@ -12,7 +12,7 @@ Caso você identifique qualquer falha de segurança, comportamento inesperado ou
 
 ### 📢 Canal de comunicação
 
-* Todas as vulnerabilidades devem ser reportadas exclusivamente através do **servidor do Discord do projeto**.
+* Todas as vulnerabilidades devem ser reportadas exclusivamente através do [**servidor do Discord do projeto**](https://discord.gg/bvPjvTJXec).
 * Evite divulgar publicamente antes do processo de correção.
 
 ---
@@ -34,4 +34,5 @@ Para que a análise seja eficiente, o aviso deve conter:
 ## ⏱️ Política de Divulgação Responsável
 
 * Deve ser concedido um prazo mínimo de **48 horas antes de qualquer divulgação pública**
-*
+
+
