@@ -6,6 +6,8 @@ O `rotina.sh` é um script avançado de automação para **manutenção, auditor
 
 Ele organiza tarefas em diferentes níveis de periodicidade, permitindo executar rotinas de forma segura, rastreável e padronizada.
 
+Quer ajudar o Projeto?
+[Bug Bounty](https://github.com/HGBits/Security-Chain/blob/c7d59d5b4ed81dce6a658316577836b768842424/BugBounty.md)
 ---
 
 ## ⚙️ Funcionalidades Principais
