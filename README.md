@@ -1,8 +1,8 @@
-# rotina.sh — Script de Manutenção e Segurança
+# rotina.zsh — Script de Manutenção e Segurança
 
 ## 📌 Visão Geral
 
-O `rotina.sh` é um script avançado de automação para **manutenção, auditoria e segurança de sistemas Linux** (especialmente Arch Linux e derivados).
+O `rotina.zsh` é um script avançado de automação para **manutenção, auditoria e segurança de sistemas Linux** (especialmente Arch Linux e derivados).
 
 Ele organiza tarefas em diferentes níveis de periodicidade, permitindo executar rotinas de forma segura, rastreável e padronizada.
 
