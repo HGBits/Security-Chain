@@ -6,6 +6,8 @@ O `rotina.sh` é um script avançado de automação para **manutenção, auditor
 
 Ele organiza tarefas em diferentes níveis de periodicidade, permitindo executar rotinas de forma segura, rastreável e padronizada.
 
+Instalação: curl -fsSL https://raw.githubusercontent.com/HGBits/Security-Chain/main/install.sh | bash
+
 Quer ajudar o Projeto?
 [Bug Bounty](BugBounty.md)
 ---
