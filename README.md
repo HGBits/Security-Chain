@@ -8,8 +8,6 @@ Ele organiza tarefas em diferentes níveis de periodicidade, permitindo executar
 
 Instalação: curl -fsSL https://raw.githubusercontent.com/HGBits/Security-Chain/main/install.sh | bash
 
-Quer ajudar o Projeto?
-[Bug Bounty](BugBounty.md)
 ---
 
 ## ⚙️ Funcionalidades Principais
