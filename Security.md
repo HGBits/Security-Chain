@@ -1,8 +1,8 @@
-# 🐛 Bug Bounty — rotina.sh
+🔐 Security Policy
 
 ## 📌 Objetivo
 
-Este projeto incentiva a identificação responsável de vulnerabilidades no script `rotina.sh`, com o objetivo de melhorar continuamente sua segurança, confiabilidade e robustez.
+Este projeto incentiva a identificação responsável de vulnerabilidades no script `rotina.zsh`, com o objetivo de melhorar continuamente sua segurança, confiabilidade e robustez.
 
 ---
 
@@ -12,7 +12,8 @@ Caso você identifique qualquer falha de segurança, comportamento inesperado ou
 
 ### 📢 Canal de comunicação
 
-* Todas as vulnerabilidades devem ser reportadas exclusivamente através do [**servidor do Discord do projeto**](https://discord.gg/bvPjvTJXec).
+* Preferencial: Security Advisories do GitHub (privado)
+* Alternativo: [**servidor do Discord do projeto**](https://discord.gg/bvPjvTJXec).
 * Evite divulgar publicamente antes do processo de correção.
 
 ---
@@ -35,4 +36,16 @@ Para que a análise seja eficiente, o aviso deve conter:
 
 * Deve ser concedido um prazo mínimo de **48 horas antes de qualquer divulgação pública**
 
+## 🏆 Possíveis Recompensas
 
+- **Hall of Fame no README (todas as vulnerabilidades válidas)**
+  - Destaque especial para vulnerabilidades críticas
+  - Nome + link do pesquisador
+
+- **Créditos públicos em Security Advisory**
+
+- **Badge “Security Contributor”**
+  - 5+ vulnerabilidades: Bronze
+  - 15+: Prata
+  - 30+: Ouro
+  
