@@ -6,7 +6,7 @@ O `rotina.zsh` é um script avançado de automação para **manutenção, audito
 
 Ele organiza tarefas em diferentes níveis de periodicidade, permitindo executar rotinas de forma segura, rastreável e padronizada.
 
-Instalação: curl -fsSL https://raw.githubusercontent.com/HGBits/Security-Chain/main/install.sh | bash
+Instalação: curl -fsSL https://raw.githubusercontent.com/HGBits/Security-Chain/Beta/install.sh | bash
 
 ---
 
