@@ -5,7 +5,7 @@ REPO="HGBits/Security-Chain"
 BRANCH="main"
 RAW_URL="https://raw.githubusercontent.com/$REPO/$BRANCH"
 
-SCRIPT_NAME="rotina.zsh"
+SCRIPT_NAME="rotina.sh"
 TMP_FILE="/tmp/$SCRIPT_NAME"
 TARGET="/usr/local/sbin/rotina"
 HASH_FILE_URL="$RAW_URL/rotina.sha256"

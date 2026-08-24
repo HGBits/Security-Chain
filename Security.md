@@ -2,7 +2,7 @@
 
 ## 📌 Objetivo
 
-Este projeto incentiva a identificação responsável de vulnerabilidades no script `rotina.zsh`, com o objetivo de melhorar continuamente sua segurança, confiabilidade e robustez.
+Este projeto incentiva a identificação responsável de vulnerabilidades no script `rotina.sh`, com o objetivo de melhorar continuamente sua segurança, confiabilidade e robustez.
 
 ---
 
@@ -11,6 +11,7 @@ Este projeto incentiva a identificação responsável de vulnerabilidades no scr
 Caso você identifique qualquer falha de segurança, comportamento inesperado ou possível vulnerabilidade, siga as diretrizes abaixo:
 
 ### 📢 Canal de comunicação
+# Servidor alterado, mudança se reflitira em versões futura.
 
 * Preferencial: Security Advisories do GitHub (privado)
 * Alternativo: [**servidor do Discord do projeto**](https://discord.gg/bvPjvTJXec).
