@@ -270,3 +270,6 @@ O `rotina.sh` é uma solução robusta para:
 * Padronizar auditorias
 
 Ideal para usuários avançados e administradores que desejam **controle total e visibilidade do sistema**.
+
+Política de uso de IA: veja
+[`docs/Diretriz-de-Uso-de-IA.md`](./docs/Diretriz-de-Uso-de-IA.md).
